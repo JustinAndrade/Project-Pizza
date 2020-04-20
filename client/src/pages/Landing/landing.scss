@@ -1,0 +1,26 @@
+header {
+  div {
+    width: 50%;
+    margin: 15% 2%;
+    h2 {
+      font-size: 3rem;
+    }
+    button {
+      font-size: 1.2rem;
+      background: none;
+      border: 1px solid #fff;
+      color: #fff;
+      padding: 20px 50px;
+      cursor: pointer;
+      &:hover {
+        opacity: 0.5;
+      }
+    }
+  }
+  img {
+    position: absolute;
+    top: 30%;
+    height: auto;
+    width: 700px;
+  }
+}
