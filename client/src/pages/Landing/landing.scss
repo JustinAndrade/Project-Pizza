@@ -1,7 +1,8 @@
 header {
   div {
     width: 50%;
-    margin: 15% 2%;
+    margin: 15% 5%;
+    text-align: left;
     h2 {
       font-size: 3rem;
     }
@@ -23,4 +24,10 @@ header {
     height: auto;
     width: 700px;
   }
+}
+
+.ourStory {
+  background: #fff;
+  display: flex;
+  border: 1px solid red;
 }
